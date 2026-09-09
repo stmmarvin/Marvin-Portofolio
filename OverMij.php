@@ -29,6 +29,7 @@ session_start();
                 <p>Ik volg de opleiding HBO Open ICT aan de Hogeschool Utrecht. Naast mijn studie werk ik bij Albert Heijn als kassamedewerker.</p>
                 <p>In mijn vrije tijd houd ik van gamen, koken, bakken en fietsen. Ook ga ik graag een dagje uit.</p>
                 <p>Ik heb hiervoor de opleiding Sofware Development niveau 4 bij MBO Utrecht gevolgd.</p>
+                <p>Waar ik mijn kennis in wil ontwikkelen is een nieuwe taal leren zoals python. En sta er voor open om een bestaande taal te verbeteren zoals Javascript.</p>
             </div>
         </div>
     </main>
